@@ -1,6 +1,6 @@
 # Portfolio of  M.P. Mentzer-Hernández
 
-<hr> </hr>
+<hr>
 
 <ul>
     <li><a href="https://www.google.com" rel="noopener noreferrer" target="_blank">Video Tutorial Example<br></a></li>
