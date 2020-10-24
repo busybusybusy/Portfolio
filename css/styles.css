@@ -5205,7 +5205,7 @@ a.close.disabled {
 	vertical-align: text-top !important;
 }
 .bg-primary {
-	background-color: #f4623a !important;
+	background-color: #a3b2a7ff !important;
 }
 a.bg-primary:hover, a.bg-primary:focus, button.bg-primary:hover, button.bg-primary:focus {
 	background-color: #ee3e0d !important;
@@ -7740,7 +7740,7 @@ a.bg-dark:hover, a.bg-dark:focus, button.bg-dark:hover, button.bg-dark:focus {
 	color: #fff !important;
 }
 .text-primary {
-	color: #054B7F !important;
+	color: #a3b2a7ff !important;
 }
 a.text-primary:hover, a.text-primary:focus {
 	color: #d6370c !important;
