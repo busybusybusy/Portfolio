@@ -130,7 +130,7 @@ sup {
 	top: -0.5em;
 }
 a {
-	color: #f4623a;
+	color: #000;
 	text-decoration: none;
 	background-color: transparent;
 }
@@ -7740,7 +7740,7 @@ a.bg-dark:hover, a.bg-dark:focus, button.bg-dark:hover, button.bg-dark:focus {
 	color: #fff !important;
 }
 .text-primary {
-	color: #f4623a !important;
+	color: #054B7F !important;
 }
 a.text-primary:hover, a.text-primary:focus {
 	color: #d6370c !important;
