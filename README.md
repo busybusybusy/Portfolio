@@ -1,3 +1,3 @@
- # Portfolio of  M.P. Mentzer-Hernández
+ # Portfolio of  Michael Mentzer-Hernández
 <hr>
 
