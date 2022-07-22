@@ -269,6 +269,11 @@ figure {
 img,
 svg {
   vertical-align: middle;
+ 
+}
+.responsive {
+  width: 100%;
+  height: auto;
 }
 
 table {
