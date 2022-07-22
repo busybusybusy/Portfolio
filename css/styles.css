@@ -51,6 +51,13 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -10986,10 +10993,5 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
-}
 
-.responsive {
-  width: 100%;
-  height: auto;
-}
 
