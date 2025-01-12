@@ -12,8 +12,90 @@
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet">
+    <style>
+      .hero-section {
+        padding: 4rem 2rem;
+        background-color: white;
+        margin-bottom: 2rem;
+      }
+      
+      .hero-title {
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+      
+      .hero-subtitle {
+        font-size: 1.25rem;
+        color: #4a5568;
+        max-width: 600px;
+        margin-bottom: 2rem;
+      }
+      
+      .hero-image {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        float: right;
+      }
+      
+      .about-section {
+        margin-top: 3rem;
+      }
+      
+      .world-map {
+        width: 100%;
+        max-width: 800px;
+        margin: 2rem 0;
+      }
+      
+      .map-legend {
+        border: 1px solid #cbd5e0;
+        padding: 1rem;
+        display: inline-block;
+      }
+      
+      .map-legend div {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin: 0.5rem 0;
+      }
+    </style>
   </head>
   <body id="page-top">
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <img src="profile-image.jpg" alt="Profile" class="hero-image">
+      <div class="hero-title">
+        Portfolio of Michael Mentzer-Hernandez
+      </div>
+      <div class="hero-subtitle">
+Lalalala      </div>
+    </section>
+
+    <!-- About Section with Map -->
+    <section class="about-section">
+      <h2>About</h2>
+      <img src="bluemap.png" alt="World Map" class="world-map">
+      <div class="map-legend">
+        <div>
+          <span style="color: #f6ad55;">■</span>
+          <span>Lived & Worked Long Term</span>
+        </div>
+        <div>
+          <span style="color: #fc8181;">■</span>
+          <span>Lived Long Term</span>
+        </div>
+        <div>
+          <span style="color: #2b6cb0;">■</span>
+          <span>Visited</span>
+        </div>
+      </div>
+    </section>
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
