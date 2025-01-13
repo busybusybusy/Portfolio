@@ -9301,3 +9301,9 @@ section.resume-section .resume-section-content {
         gap: 0.5rem;
         color: #000000;
   }
+
+
+/* Apply Saira Extra Condensed font to all text */
+body, h1, h2, h3, h4, h5, h6, p, ul, li, a, span, div {
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
